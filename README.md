@@ -2,7 +2,7 @@
 
 A content-based movie recommendation web app built with **Python**, **Streamlit**, **Pandas**, and **Scikit-learn**. Select a movie and discover five movies with similar genres, keywords, and plot descriptions. The app can also display movie posters using the OMDb API.
 
-**GitHub repository:** https://github.com/4kayasitayashu/movie-recommender-system
+**GitHub repository:** https://github.com/govindchaturvedi1995-svg/Movie-recommendation-system
 
 ---
 
@@ -62,7 +62,7 @@ Keep the CSV dataset in the same directory as `streamlit_app.py`; the app reads 
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/4kayasitayashu/movie-recommender-system.git
+git clone https://github.com/govindchaturvedi1995-svg/Movie-recommendation-system
 cd movie-recommender-system
 ```
 
